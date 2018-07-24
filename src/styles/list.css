@@ -1,0 +1,12 @@
+.list {
+    display: inline-block;
+    width: 50%;
+}
+
+.list_header{
+
+}
+
+.list_list{
+    list-style: none;
+}

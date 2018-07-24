@@ -1,0 +1,18 @@
+:root {
+  --white: #FFFFFF;
+  --bg-color: #b2c2bf;
+  --light-blue: #b2dfdb;
+  --teal-light: #009688;
+  --teal-dark: #00796b;
+  --yellow: #ffc107;
+  --gray-dark: #212121;
+  --gray-middle: #757575;
+  --gray-light: #BDBDBD;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: var(--bg-color)
+}
